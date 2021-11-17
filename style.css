@@ -1,0 +1,16 @@
+body{
+    color: white;
+     background-image: linear-gradient(rgb(232, 15, 91),rgb(139, 0, 72),rgb(154, 12, 154));;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300;
+}
+
